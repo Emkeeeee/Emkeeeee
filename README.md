@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/9woiw6"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -69,6 +69,10 @@
 ###
 
 <h2 align="center">🎇 TRUST THE PROCESS 🎇</h2>
+
+<div align="center">
+<img height="200" src="https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0NDYwMTcsIm5iZiI6MTc0OTQ0NTcxNywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzODYtODczNjA5NDgtN2I5Mi00ODUyLTkxZjctZmY2MmRkYjhmY2Q0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDA1MDgzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwNGExZGY1ZTlkYWZmOTQ4N2QwMzY4ZGM0YzY4ZmE0YTlmMGM2NDY4MDE1MDczMDFlZWE5ZmI0YWE1OGZhMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7kg1XKeIKYdT7pygcQ3AqHyoz5jKe9FpugdAyOpW8OQ"  />
+</div>
 
 ###
 
