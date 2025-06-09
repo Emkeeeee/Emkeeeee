@@ -1,4 +1,5 @@
-<h1 align="center">Yo! What's up? 🤘</h1>
+<h1 align="center">Yo! What's up? 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
 
 ###
 
@@ -8,7 +9,7 @@
 
 ###
 
-<h4 align="center">I am MK/Emkeeeee an aspiring Web Developer<br><br>- React JS Enjoyer 😋<br>- Continuously learning! <br>- I WANT TO BE WEB DEV SO I WON'T GIVE UP UNTIL I LAND A JOB 👹</h4>
+<h4 align="center">I am MK/Emkeeeee an aspiring Web Developer<br><br>- React JS Enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" /><br>- Continuously learning! <br>- I WANT TO BE WEB DEV SO I WON'T GIVE UP UNTIL I LAND A JOB 👹</h4>
 
 ###
 
