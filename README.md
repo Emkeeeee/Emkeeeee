@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="center">I am MK/Emkeeeee an aspiring Web Developer<br><br>- React JS Enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" /><br>- Continuously learning! <br>- I WANT TO BE WEB DEV SO I WON'T GIVE UP UNTIL I LAND A JOB 👹</h4>
+<h4 align="center">I am MK/Emkeeeee an aspiring Web Developer<br><br>- React JS Enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" /><br>- Continuously learning! <br>- I WANT TO BE A WEB DEV SO I WON'T GIVE UP UNTIL I LAND A JOB <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" /></h4>
 
 ###
 
